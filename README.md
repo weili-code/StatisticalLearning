@@ -1,4 +1,4 @@
-Notes for Statistical Machine Learning (in progress).
+Slides for Statistical Machine Learning (in progress). 
 
 Textbook references:
 
