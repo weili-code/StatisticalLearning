@@ -172,51 +172,48 @@ providing a conceptual foundation for understanding and developing reliable
 and interpretable machine learning systems.
 
 
-## Topics
-
 ### 0. Overview
-- [Overview](0_overview_slides.pdf)
+- [Overview](Lecture/0_overview_slides.pdf)
+
 
 ### 1. Linear Models
-- [Linear Regression](1_linearReg_slides.pdf)
-
+- [Linear Regression](Lecture/1_linearReg_slides.pdf)
 
 ### 2. Model Evaluation
-- [Error, Bias–Variance Tradeoff, and Validation](2_error_validation_slides.pdf)
-
+- [Error, Bias–Variance Tradeoff, and Validation](Lecture/2_error_validation_slides.pdf)
+- [Model Assessment](Lecture/7_modelassessment_slides.pdf)
 
 ### 3. Regularization
-- [Regularization Methods](3_regularization_slides.pdf)
+- [Regularization Methods](Lecture/3_regularization_slides.pdf)
 
 
 ### 4. Classification
-- [Classification Methods](4_classification_slides.pdf)
+- [Classification Methods](Lecture/4_classification_slides.pdf)
 
 
 ### 5. Nonparametric Methods
-- [Nonparametric Methods I](6a_nonparametrics_slides.pdf)
-- [Nonparametric Methods II](6b_nonparametrics_slides.pdf)
-- [Nonparametric Methods III](6c_nonparametrics_slides.pdf)
+- [Nonparametric Methods I](Lecture/6a_nonparametrics_slides.pdf)
+- [Nonparametric Methods II](Lecture/6b_nonparametrics_slides.pdf)
+- [Nonparametric Methods III](Lecture/6c_nonparametrics_slides.pdf)
 
 
 ### 6. Resampling Methods
-- [Bootstrap](8_bootstrap_slides.pdf)
+- [Bootstrap](Lecture/8_bootstrap_slides.pdf)
 
 
 ### 7. Model Averaging and Ensemble Methods
-- [Model Averaging and Bagging](9_modelAvg_bagging_slides.pdf)
+- [Model Averaging and Bagging](Lecture/9_modelAvg_bagging_slides.pdf)
 
 
 ### 8. Tree-Based Methods
-- [Decision Trees](10a_trees_slides.pdf)
-- [MARS and HME](10b_mars_hme_slides.pdf)
-
+- [Decision Trees](Lecture/10a_trees_slides.pdf)
+- [MARS and HME](Lecture/10b_mars_hme_slides.pdf)
 
 ### 9. Ensemble Methods
-- [Random Forests](11_randomForest_slides.pdf)
-- [Boosted Trees I](12a_boostedTrees_slides.pdf)
-- [Boosted Trees II](12b_boostedTrees_slides.pdf)
+- [Random Forests](Lecture/11_randomForest_slides.pdf)
+- [Boosting Methods I](Lecture/12a_boostedTrees_slides.pdf)
+- [Boosting Methods II](Lecture/12b_boostedTrees_slides.pdf)
 
 ### 10. Neural Networks
-- [Neural Networks I](13a_NeuralNetworks_slides.pdf)
-- [Neural Networks II](13b_NeuralNetworks_slides.pdf)
+- [Neural Networks I](Lecture/13a_NeuralNetworks_slides.pdf)
+- [Neural Networks II](Lecture/13b_NeuralNetworks_slides.pdf)
