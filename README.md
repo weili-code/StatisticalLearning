@@ -2,7 +2,7 @@
 
 ## Preface
 
-This repository contains lecture materials on statistical machine learning, 
+This repository presents a structured overview of statistical machine learning, 
 with an emphasis on the statistical foundations underlying modern predictive models. 
 Topics include regression, classification, model evaluation, regularization, 
 nonparametric methods, and ensemble learning.
@@ -12,8 +12,7 @@ quantification, highlighting how statistical reasoning informs the design and ev
 of machine learning algorithms. These concepts form the basis of many widely used methods 
 in practice, where reliable prediction and interpretability are critical.
 
-A companion webpage with content is here:  
-https://weili-code.github.io/StatisticalLearning
+Webpage: https://weili-code.github.io/StatisticalLearning
 
 ## Topics
 
