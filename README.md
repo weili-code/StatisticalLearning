@@ -12,7 +12,7 @@ quantification, highlighting how statistical reasoning informs the design and ev
 of machine learning algorithms. These concepts form the basis of many widely used methods 
 in practice, where reliable prediction and interpretability are critical.
 
-Webpage: https://weili-code.github.io/StatisticalLearning
+Webpage: https://weili-code.github.io/StatisticalLearning/
 
 ## Topics
 
