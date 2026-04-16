@@ -2,57 +2,67 @@
 
 ## Preface
 
-Slides for statistical machine learning (in progress).
+This repository contains lecture materials on statistical machine learning, 
+with an emphasis on the statistical foundations underlying modern predictive models. 
+Topics include regression, classification, model evaluation, regularization, 
+nonparametric methods, and ensemble learning.
 
-This repository contains lecture materials covering core topics in predictive modeling, 
-model evaluation, and modern machine learning methods.
+The material focuses on principled approaches to modeling, inference, and uncertainty 
+quantification, highlighting how statistical reasoning informs the design and evaluation 
+of machine learning algorithms. These concepts form the basis of many widely used methods 
+in practice, where reliable prediction and interpretability are critical.
 
----
+A companion webpage with content is here:  
+https://weili-code.github.io/StatisticalLearning
 
 ## Topics
 
 ### 0. Overview
-- [Overview](./0_overview_slides.pdf)
+- Course Overview
 
 ### 1. Linear Models
-- [Linear Regression](./1_linearReg_slides.pdf)
+- Linear Regression
 
 ### 2. Model Evaluation
-- [Error, Bias–Variance Tradeoff, and Validation](./2_error_validation_slides.pdf)
+- Error Analysis  
+- Bias–Variance Tradeoff  
+- Validation Methods  
 
 ### 3. Regularization
-- [Regularization Methods](./3_regularization_slides.pdf)
+- Shrinkage and Regularization Methods  
 
 ### 4. Classification
-- [Classification Methods](./4_classification_slides.pdf)
+- Classification Methods  
 
 ### 5. Nonparametric Methods
-- [Nonparametric Methods I](./6a_nonparametrics_slides.pdf)
-- [Nonparametric Methods II](./6b_nonparametrics_slides.pdf)
-- [Nonparametric Methods III](./6c_nonparametrics_slides.pdf)
+- Nonparametric Methods I  
+- Nonparametric Methods II  
+- Nonparametric Methods III  
+
 
 ### 6. Resampling Methods
-- [Bootstrap](./8_bootstrap_slides.pdf)
+- Bootstrap  
 
 ### 7. Model Averaging and Ensemble Basics
-- [Model Averaging and Bagging](./9_modelAvg_bagging_slides.pdf)
+- Model Averaging  
+- Bagging  
+
 
 ### 8. Tree-Based Methods
-- [Decision Trees](./10a_trees_slides.pdf)
-- [MARS and HME](./10b_mars_hme_slides.pdf)
+- Decision Trees  
+- MARS and HME  
 
 ### 9. Ensemble Methods
-- [Random Forests](./11_randomForest_slides.pdf)
-- [Boosted Trees I](./12a_boostedTrees_slides.pdf)
-- [Boosted Trees II](./12b_boostedTrees_slides.pdf)
+- Random Forests  
+- Boosting Methods (Part I)  
+- Boosting Methods (Part II)  
+
 
 ### 10. Neural Networks
-- [Neural Networks I](./13a_NeuralNetworks_slides.pdf)
-- [Neural Networks II](./13b_NeuralNetworks_slides.pdf)
+- Neural Networks (Part I)  
+- Neural Networks (Part II)  
 
----
-
-## Textbook References
+## References
 
 - Hastie, T., Tibshirani, R., & Friedman, J. H. (2009).  
   *The Elements of Statistical Learning* (2nd ed.)
